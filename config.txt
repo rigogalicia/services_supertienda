@@ -1,0 +1,3 @@
+# Dependencias para los servicios web
+pip install flask-restful
+pip install pymongo
